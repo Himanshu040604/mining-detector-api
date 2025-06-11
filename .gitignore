@@ -1,0 +1,4 @@
+input video.mp4
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
